@@ -1,0 +1,14 @@
+src/
+tests/
+example/
+
+.github/
+.gitignore
+tsconfig.json
+jest.config.cjs
+jest.setup.cjs
+
+
+*.log
+*.tgz
+coverage/
