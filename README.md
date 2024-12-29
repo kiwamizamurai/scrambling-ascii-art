@@ -1,6 +1,7 @@
 # Scrambling ASCII Art
 
-[![npm version](https://badge.fury.io/js/scrambling-ascii-art.svg)](https://badge.fury.io/js/scrambling-ascii-art)
+![NPM Version](https://img.shields.io/npm/v/scrambling-ascii-art)
+![NPM Downloads](https://img.shields.io/npm/dm/scrambling-ascii-art)
 [![CI](https://github.com/kiwamizamurai/scrambling-ascii-art/actions/workflows/ci.yml/badge.svg)](https://github.com/kiwamizamurai/scrambling-ascii-art/actions/workflows/ci.yml)
 
 A TypeScript library for creating scrambling ASCII art animations with optional React support.
